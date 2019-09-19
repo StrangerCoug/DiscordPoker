@@ -9,4 +9,4 @@ In general, code should closely follow Oracle's style guide for both [Java](http
 We slightly differ from Oracle's indentation convention in that we follow the "tabs for indentation, spaces for alignment" principle in this project. The tab character counts _once_ toward the 80-character limit per line just like everything else. For continuation indents, use two hard tabs.
 
 ## Versioning scheme
-We use (https://semver.org/)[Semantic Versioning 2.0.0] when assigning release numbers in this project.
+We use [Semantic Versioning 2.0.0](https://semver.org/) when assigning release numbers in this project.
